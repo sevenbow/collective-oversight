@@ -1,0 +1,10 @@
+Structure,Complexity,N,Detection (M±SD),FA Rate,Trust,RT (ms)
+Individual,Low,50,0.662±0.058,0.102,4.89,2111
+Individual,Medium,50,0.684±0.058,0.097,4.81,2289
+Individual,High,50,0.680±0.058,0.104,4.71,2580
+Dyad,Low,50,0.738±0.051,0.134,5.09,2747
+Dyad,Medium,50,0.711±0.051,0.129,5.04,2796
+Dyad,High,50,0.686±0.065,0.130,5.14,3204
+Quad,Low,50,0.728±0.071,0.144,5.66,3503
+Quad,Medium,50,0.668±0.071,0.147,5.67,3622
+Quad,High,50,0.614±0.048,0.151,5.66,3958

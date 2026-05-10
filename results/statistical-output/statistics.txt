@@ -1,0 +1,27 @@
+======================================================================
+STATISTICAL ANALYSIS: HIM-22 Collective vs Individual Oversight
+Generated: 2026-05-10 04:29:56
+======================================================================
+
+Low complexity: F(2, 147) = 23.29, p < .001
+  Individual: M = 0.6618
+  Dyad: M = 0.7377
+  Quad: M = 0.7275
+
+Medium complexity: F(2, 147) = 6.50, p < .001
+  Individual: M = 0.6837
+  Dyad: M = 0.7115
+  Quad: M = 0.6684
+
+High complexity: F(2, 147) = 24.29, p < .001
+  Individual: M = 0.6796
+  Dyad: M = 0.6861
+  Quad: M = 0.6140
+
+Trust × Team Size correlation: r = 0.5776
+
+Individual efficiency (det/sec): 0.2949
+
+Dyad efficiency (det/sec): 0.2502
+
+Quad efficiency (det/sec): 0.1863
